@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MediBOT High-Fidelity Prototype",
+  "description": "A professional medical dashboard and AI assistant prototype for healthcare management, featuring real-time health tracking, AI diagnostics, and EHR management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
